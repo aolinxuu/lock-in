@@ -27,19 +27,6 @@ var/
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-.hypothesis/
-.pytest_cache/
-
 # PyInstaller
 *.manifest
 *.spec
@@ -48,11 +35,6 @@ coverage.xml
 .DS_Store
 
 # Virtual environments
-venv/
-ENV/
-env/
-env.bak/
-venv.bak/
 timer_venv/
 
 # VS Code
