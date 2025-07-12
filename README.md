@@ -1,6 +1,6 @@
 # Lock In Timer
 
-A study timer built with PyQt5. Designed to help you focus, track your work session, and take well-timed breaks - inspired by pomodoro developed by a my mentor
+A study timer built with PyQt5. Designed to help you focus, track your work session, and take well-timed breaks - inspired by pomodoro, developed by my mentor
 
 ## Features
 
