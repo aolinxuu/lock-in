@@ -90,6 +90,8 @@ class Timer(QWidget):
         if not self.running:
             self.running = True
             self.timer.start(1000)
+            if self.current_sound and not self.current_sound.isPlaying():
+                    self.current_sound.play()
 
     def pause_timer(self):
         self.running = False
